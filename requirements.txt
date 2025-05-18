@@ -1,0 +1,6 @@
+torch>=2.1.0      # 你的 CUDA 版本若不同，後面 build 時再改輪子
+transformers>=4.39
+accelerate>=0.27
+flask
+sentencepiece
+protobuf
